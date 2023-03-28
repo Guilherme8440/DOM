@@ -1,0 +1,22 @@
+@font-face {
+    font-family: guilherme;
+    src: url(london_boutique/LondonBoutique_PERSONAL_USE_ONLY.otf);
+}
+body {
+    
+    text-align: center;
+    padding: 237px;
+    color: white;
+    background-image: url(https://cdn.pixabay.com/photo/2019/12/21/20/44/math-work-4711302_960_720.jpg);
+    background-size: cover;
+}
+
+h1 {
+    padding: 5px;
+    font-family: guilherme;
+    color: rgb(201, 162, 20);
+    border: 2px 3px 2px solid rgb(22, 4, 4);
+   
+    text-shadow:  5px 5px 10px red;
+}
+
